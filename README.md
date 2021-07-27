@@ -2,7 +2,7 @@
     Ipersito.it
   </h1>
   <h3 align="center">
-      <img src="images/image.png" alt="Image" width="200" height="176">
+      <img src="images/image.jpg" alt="Image" width="460" height="300">
     <br>
   <br>
     <a href="https://www.ipersito.it/">Live Preview</a>
